@@ -43,7 +43,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamDuong1212&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamDuong1212&theme=tokyonight&count_private=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamDuong1212&theme=tokyo-night&hide_border=true&count_private=true)
+  
 </div>
 
 ---
@@ -76,5 +82,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NamDuong1212&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
+
+---
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
