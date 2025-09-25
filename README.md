@@ -4,7 +4,7 @@
 =========================================================
 -->
 
-<h1 align="center">Hello 👋, I'm [Your Name]</h1>
+<h1 align="center">Hello 👋, I'm Duong</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
